@@ -1,0 +1,15 @@
+
+public class FlyTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Airplane biplane = new Airplane();
+		biplane.setSpeed(212);
+		System.out.println(biplane.getSpeed());
+		Jet boeing = new Jet();
+		boeing.setSpeed(424);
+		System.out.println(boeing.getSpeed());
+		boeing.accelerate();
+	}
+
+}
