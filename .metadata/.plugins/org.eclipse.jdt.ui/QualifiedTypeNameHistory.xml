@@ -14,4 +14,9 @@
 <fullyQualifiedTypeName name="Builder"/>
 <fullyQualifiedTypeName name="java.lang.Object"/>
 <fullyQualifiedTypeName name="GuitarSpec"/>
+<fullyQualifiedTypeName name="DogDoor"/>
+<fullyQualifiedTypeName name="Remote"/>
+<fullyQualifiedTypeName name="java.util.Timer"/>
+<fullyQualifiedTypeName name="java.util.TimerTask"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
 </qualifiedTypeNameHistroy>
